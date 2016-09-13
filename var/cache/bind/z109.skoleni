@@ -13,6 +13,10 @@ www.z109.skoleni.		20	IN	AAAA	::1
 
 
 ; Klice pro podepsani zony (verejne klice)
+; KSK
 $INCLUDE "Kz109.skoleni.+008+44485.key"
+; Stary ZSK
 $INCLUDE "Kz109.skoleni.+008+07923.key"
 
+; Novy ZSK klic
+$INCLUDE "Kz109.skoleni.+008+37386.key"
