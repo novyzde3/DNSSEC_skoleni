@@ -1,0 +1,15 @@
+z109.skoleni.	20	IN	SOA	a.ns.z109.skoleni. hostmaster.z109.skoleni. (
+					1 	        ; Serial
+					10800		; Refresh
+					320		; Retry
+					120920		; Expire
+					20 )		; Negative Cache TTL
+z109.skoleni.			20	IN	NS	a.ns.z109.skoleni.
+a.ns.z109.skoleni.		20	IN	A	127.0.0.1
+z109.skoleni.			20	IN	A	127.0.0.1
+z109.skoleni.			20	IN	AAAA	::1
+www.z109.skoleni.		20	IN	A	127.0.0.1
+www.z109.skoleni.		20	IN	AAAA	::1
+
+
+
