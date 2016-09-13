@@ -10,3 +10,9 @@ z109.skoleni.			20	IN	A	127.0.0.1
 z109.skoleni.			20	IN	AAAA	::1
 www.z109.skoleni.		20	IN	A	127.0.0.1
 www.z109.skoleni.		20	IN	AAAA	::1
+
+
+; Klice pro podepsani zony (verejne klice)
+$INCLUDE "Kz109.skoleni.+008+44485.key"
+$INCLUDE "Kz109.skoleni.+008+07923.key"
+
